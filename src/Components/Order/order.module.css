@@ -1,0 +1,146 @@
+.order{
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+    display: flex;
+}
+.container{
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.orderItem{
+    width: 100%;
+    display: flex;
+    margin-top: 20px;
+}
+.photoCont{
+    width: 70%;
+    display: flex;
+}
+.sliderPhoto{
+    width: 23%;
+}
+.sliderItem{
+    width: 100% ;
+    margin-bottom: 5px;
+}
+.mainPhotoCont{
+    width: 70%;
+    margin-left: 10px;
+}
+.mainPhoto{
+    width: 100%;
+}
+.textCont{
+    width: 30%;
+}
+.title{
+    font-style: normal;
+    font-weight: 700;
+    text-align: center;
+    font-size: 40px;
+    line-height: 47px;
+    margin-top: 40px;
+}
+.priceCont{
+    margin-top: 50px;
+    width: 100%;
+    justify-content: space-between;
+    font-size: 30px;
+    display: flex;
+}
+.counted{
+    display: flex;
+    width: 20%;
+}
+.counted button{
+    background-color: inherit;
+    font-size: 20px;
+    border: 0;
+    width: 30px;
+}
+.capacityCont{
+    width: 100%;
+    margin-top: 65px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+}
+.orderTitle{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    margin-bottom: 25px;
+}
+.capacityCont button{
+    background-color: inherit;
+    margin:10px;
+    width: 40%;
+    height: 68px;
+}
+.colorButton{
+    width: 98px;
+    height: 35px;
+    border: 0;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    margin: 0 5px 50px;
+}
+#brown{
+    background-color: #64454D;
+}
+#green{
+    background-color: #435D5C;
+}
+#white{
+    background-color: white;
+}
+#black{
+    background-color: black;
+}
+.totalCont{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.totalPrice{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 35px;
+}
+.buttonCont{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.buttonBuy{
+    background-color: inherit;
+    border: 2px solid;
+    font-size: 30px;
+    width: 220px;
+    font-weight: bold;
+}
+
+/*Information-Cont*/
+
+.information{
+    width: 100%;
+    margin-top: 20px;
+
+}
+
+.titleInformation{
+    text-align: left;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 49px;
+    margin: 30px 0;
+}
+.detailsCont{
+    width: 100%;
+
+}

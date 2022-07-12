@@ -1,0 +1,74 @@
+.Filter{
+    background-image: url("../../../src/images/Background-Filter.png");
+    max-width: 500px;
+}
+.title{
+    font-family: 'Martel Sans', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+    padding: 32px 32px;
+}
+.horizonal{
+    padding: 0 50px;
+}
+.cameraCont{
+    width: 100%;
+
+}
+.rowButton{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0;
+}
+.buttonFilter{
+    width: 100px;
+    height: 40px;
+    background-color: black;
+    border: 0;
+}
+.buttonFilter a{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+}
+.colorCont{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0;
+}
+.colorItem{
+    width: 32px;
+    height: 32px;
+    border: 0;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+#black{
+    background-color: black;
+}
+#white{
+    background-color: white;
+}
+#red{
+    background-color: red;
+}
+#viollet{
+    background-color: #000AFF;
+}
+#yellow{
+    background-color: yellow;
+}
+#green{
+    background-color: #00FF47;
+}
+.filter{
+    display: flex;
+    background-color: inherit;
+    border: 0;
+    padding-top: 20px;
+    align-items: center;
+    text-align: center;
+}

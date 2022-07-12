@@ -1,0 +1,24 @@
+.phones{
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+    display: flex;
+}
+.container{
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.insideCont{
+    width: 100%;
+    display: flex;
+    margin-top: 25px;
+}
+.leftPart{
+    width: 40%;
+
+}
+.rightPart{
+    width: 60%;
+}

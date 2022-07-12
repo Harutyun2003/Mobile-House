@@ -1,0 +1,89 @@
+.container{
+    background-color: #CFD6D8;
+    position: relative;
+    padding: 44px 109px;
+    justify-content: center;
+    margin: 0 10px;
+}
+p{
+    margin-bottom: 0;
+}
+.heart{
+    color: white;
+    justify-content: flex-end;
+    padding-left: 20px;
+    font-size: 24px;
+    position: absolute;
+    cursor: pointer;
+}
+.heart:hover{
+    color: red;
+}
+.name{
+    font-size: 24px;
+    color: white;
+    width: 100%;
+    margin-top: 10px;
+}
+.oldPrice{
+    color: red;
+    font-family: 'Martel Sans', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    width: 100%;
+    margin-top: 5px;
+}
+.newPrice{
+    color: white;
+    font-family: 'Martel Sans', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    width: 100%;
+    line-height: 33px;
+    margin-top: 5px;
+
+}
+
+.buttonBuy{
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+    font-size: 25px;
+    padding: 0 20px;
+    margin-top: 5px;
+
+}
+.infoCont{
+    text-align: center ;
+}
+.container img{
+    width: 100%;
+}
+@media (max-device-width: 1795px ) {
+
+    .container{
+        padding: 20px 80px;
+    }
+}
+@media (max-device-width: 1550px ){
+    .container{
+        padding: 20px 50px;
+    }
+    .heart{
+        font-size: 20px;
+    }
+}
+@media (max-device-width: 1325px) {
+    .container{
+        padding: 20px 50px;
+
+    }
+}
+@media (max-device-width: 900px){
+    .container{
+        margin: 10px 0;
+    }
+}

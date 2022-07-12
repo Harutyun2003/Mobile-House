@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e39b8f91-e5b4-498d-8acb-b21b0fc91785" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../AboutUs/AboutUs.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AboutUs/AboutUs.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/Cart.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/Cart.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHIP-HOVER/Chip.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHIP-HOVER/Chip.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CarouselMenu/CarouselMenu.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CarouselMenu/CarouselMenu.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContactUs/ContactUs.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ContactUs/ContactUs.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FAQ/Faq.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FAQ/Faq.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Filter/Filter.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Filter/Filter.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Filter/Range.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Footer/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Footer/Footer.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Home/Home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Home/Home.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Information-Row-Order/InformationRow.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Information-Row-Order/informationRow.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Likes/Likes.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Likes/Likes.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MenuBurger/MenuBurger.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MenuFaq/MenuFAQ.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MenuFaq/MneuFAQ.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAccount/MyAccount.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAccount/MyAccount.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Navbar/Navbar.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Navbar/Navigation.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order-Form/OrderForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order-Form/OrderForm.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order/Order.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Order/order.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Password/Password.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Password/password.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Phone-Chip/PhoneChip.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Phone-Chip/PhoneChips.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Phones/Phones.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Phones/phone.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Privacy/Privacy.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Privacy/Privacy.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product-Page-Slider/SliderProduct.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product-Page-Slider/SliderProduct.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recommend/Recommend.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recommend/Recommend.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sign-in/SignIn.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sign-in/SignIn.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sign-up/SignUp.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sign-up/SignUp.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Slider/Slider.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Slider/slider.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SliderOnlyOne/SliderOnlyOne.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SliderOnlyOne/SliderOnlyOne.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../App.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2B1fbwOsrsEvmkLQggRwyAt8NBA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/var/www/mobile-house/src/Components/Header",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e39b8f91-e5b4-498d-8acb-b21b0fc91785" name="Changes" comment="" />
+      <created>1656078587051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656078587051</updated>
+      <workItem from="1656078588170" duration="214000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

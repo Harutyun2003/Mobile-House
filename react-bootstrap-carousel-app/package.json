@@ -1,0 +1,9 @@
+{
+  "name": "react-bootstrap-carousel-app",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "jquery": "^3.6.0",
+    "react-range": "^1.8.12"
+  }
+}

@@ -1,0 +1,119 @@
+.cart{
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+    display: flex;
+}
+.container{
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.title{
+    font-style: normal;
+    font-weight: 700;
+    text-align: left;
+    font-size: 40px;
+    line-height: 47px;
+    margin-top: 40px;
+}
+.titleCont{
+    width: 100%;
+}
+.cartItem{
+    width: 100%;
+    display: flex;
+    margin-top: 20px;
+    flex-wrap: wrap;
+}
+.cartTitle{
+    width: 100%;
+    align-items: flex-start;
+    font-weight: 600;
+    font-size: 42px;
+    line-height: 77px;
+}
+.CartItemInside{
+    width: 100%;
+    display: flex;
+}
+.CartItemImg {
+    width: 33%;
+}
+.CartItemImg img{
+   width: 100%;
+}
+.textCont{
+    width: 65%;
+}
+.titleItem{
+    font-style: normal;
+    font-weight: 700;
+    text-align: center;
+    font-size: 40px;
+    line-height: 47px;
+    margin-top: 40px;
+}
+.priceCont{
+    margin-top: 50px;
+    width: 100%;
+    justify-content: space-around;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+}
+.counted{
+    display: flex;
+    width: 20%;
+    align-items: center;
+}
+.counted button{
+    background-color: inherit;
+    font-size: 20px;
+    border: 0;
+    width: 30px;
+}
+.memoriesButton{
+    background-color: inherit;
+    margin:10px;
+    width: 20%;
+    border: 3px solid #1CC5DC;
+}
+.colorButton{
+    width: 98px;
+    height: 55px;
+    border: 3px solid #1CC5DC;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+#brown{
+    background-color: #64454D;
+}
+.removeCont{
+    background-color: inherit;
+    border: 0;
+    margin-top: 20px;
+    display: flex;
+    cursor: pointer;
+    align-items: center;
+}
+.removeIcon{
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    border-radius: 50px;
+    background-color: black;
+    width: 20px;
+    padding: 3px;
+}
+.checkoutCont{
+    display: flex;
+    justify-content: right;
+    width: 100%;
+    margin-top: 40px;
+}
+.checkoutCont button{
+    border: 4px solid #000000;
+    background-color: inherit;
+
+}

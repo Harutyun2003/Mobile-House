@@ -1,0 +1,51 @@
+.aboutUs{
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+    display: flex;
+}
+.container{
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    justify-content: center;
+    margin: 30% 0 200px 0;
+}
+.background{
+    position: absolute;
+    width: 100%;
+}
+.navigationCont{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    padding: 20px 10%;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+.titleCont{
+    width: 100%;
+    margin-top: 20px;
+}
+.title{
+    font-style: normal;
+    font-weight: 700;
+    text-align: left;
+    font-size: 40px;
+    line-height: 47px;
+    margin-top: 40px;
+}
+.imageCont{
+    width: 100%;
+}
+.underlineText{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 58px;
+}
+.text{
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 20px;
+}

@@ -1,0 +1,64 @@
+.container{
+    width: 100%;
+}
+.inputRow{
+    width: 100%;
+    justify-content: space-between;
+    display: flex;
+}
+.inputRow input{
+    width: 49%;
+    background: rgba(0, 0, 0, 0.7);
+    border: 0;
+    padding: 10px;
+    margin: 12px 0;
+}
+::placeholder{
+    color: white;
+}
+.underInputsZip{
+    width: 15%;
+}
+.underInputsCity{
+    width: 20%;
+}
+.underInputsStr{
+    width: 20%;
+}
+.underInputsApart{
+    width: 40%;
+}
+.lastRowInputs{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.lastRowInputs input{
+    background: rgba(0, 0, 0, 0.7);
+    border: 0;
+    padding: 10px;
+}
+.buttonsCont{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 12px;
+}
+.buttonsCont button{
+    background: #000000;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    color: white;
+    border: 0;
+    width: 20%;
+    padding: 7px 0;
+}
+.checkoutCont{
+    display: flex;
+    justify-content: right;
+    width: 100%;
+    margin-top: 40px;
+}
+.checkoutCont button{
+    border: 4px solid #000000;
+    background-color: inherit;
+
+}

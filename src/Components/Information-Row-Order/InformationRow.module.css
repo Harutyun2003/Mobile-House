@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    width: 100%;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+.heading{
+    background-color: #CFD6D8;
+    width: 30%;
+
+}
+.information{
+    width: 68%;
+    background-color: #CFD6D8;
+}
+.inputs{
+    padding: 22px 40px;
+}

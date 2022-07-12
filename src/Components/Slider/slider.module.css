@@ -1,0 +1,15 @@
+.buttonsSlider{
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    font-size: 50px;
+    padding: 0 20px;
+    margin-top: 20px;
+}
+/*.Item{*/
+/*    position: relative;*/
+/*}*/
+
+.container-fluid{
+    padding: 0;
+}

@@ -1,0 +1,82 @@
+.contactUs{
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+    display: flex;
+}
+.container{
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    accent-color: rgba(0, 0 , 0, 0.5);
+}
+.titleCont{
+    width: 100%;
+    margin-top: 20px;
+}
+.title{
+    font-style: normal;
+    font-weight: 700;
+    text-align: left;
+    font-size: 40px;
+    line-height: 47px;
+    margin-top: 40px;
+}
+.titleInfo{
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    margin: 10px 0;
+}
+.infoCont{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.contactCont{
+    width: 50%;
+}
+.enquiresCont{
+    width: 50%;
+}
+.titleInputs{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 59px;
+}
+.enquiresCont input{
+    width: 100%;
+    border: 0;
+    margin: 10px 0;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 14px 24px;
+}
+.bigInput{
+    height: 200px;
+}
+.ourAddress{
+    padding: 20px 0;
+}
+.eMail{
+    padding: 20px 0;
+
+}
+.contactNum{
+    padding: 20px 0;
+
+}
+.buttonCont{
+    width: 100%;
+    display: flex;
+    justify-content: right;
+    margin:40px 0 ;
+}
+.buttonCont button{
+    border: 0;
+    background: #C4C4C4;
+    padding: 12px 72px;
+    font-size: 25px;
+}
